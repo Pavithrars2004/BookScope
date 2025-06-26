@@ -2,8 +2,6 @@
 
 **BookScope** is a simple yet powerful book search web app that allows users to explore books using the Open Library API. It helps users quickly find details like title, author, and year of publication — all in a clean, responsive interface.
 
-> 🔄 This project is adapted from [PrajwalaY26/BookFinder](https://github.com/PrajwalaY26/BookFinder) and customized for my own learning and usage.
-
 ---
 
 ## 🚀 Features
